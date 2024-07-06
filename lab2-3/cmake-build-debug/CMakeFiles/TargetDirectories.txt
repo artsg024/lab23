@@ -1,0 +1,3 @@
+/Users/a1/Desktop/lab2corrected/cmake-build-debug/CMakeFiles/mephi_lab2.dir
+/Users/a1/Desktop/lab2corrected/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/a1/Desktop/lab2corrected/cmake-build-debug/CMakeFiles/rebuild_cache.dir
